@@ -16,7 +16,7 @@
   - [Network File Shares and Permissions](https://github.com/Jacobvillagomez1/Network-File-Shares-and-Permissions)
     
 - <b>Google CyberSecuirty Linux/Bash</b>
-  - [Install Software In a Linux Distrubution](https://github.com/Jacobvillagomez1/Install-Software-In-a-Linux-Distrubution)
+  - [Install Software In a Linux Distrubution](https://github.com/JacobVillagomez2077/Install-Software-In-a-Linux-Distrubution)
   - [Activity Examine Input and Output In Shell](https://github.com/Jacobvillagomez1/Activity-Examine-Input-and-Output-In-Shell)
     
  - <b>Linux Commands</b>
