@@ -23,7 +23,7 @@
    - [Linux Commands Part 1](https://github.com/Jacobvillagomez1/Linux-Commands-Part-1)
      
  - <b>CMD Commands</b>
-   - [Cmd Commands Part 1](https://github.com/Jacobvillagomez1/CMD-Commands-Part-1)
+   - [Cmd Commands Part 1](https://github.com/JacobVillagomez2077/CMD-Commands-Part-1)
 
  - <b>Powershell Python</b>
    - [Generate Names Create Users ps1](https://github.com/JacobVillagomez2077/Generate-Names-Create-Users.ps1)
