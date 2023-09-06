@@ -20,7 +20,7 @@
   - [Activity Examine Input and Output In Shell](https://github.com/Jacobvillagomez1/Activity-Examine-Input-and-Output-In-Shell)
     
  - <b>Linux Commands</b>
-   - [Linux Commands Part 1](https://github.com/Jacobvillagomez1/Linux-Commands-Part-1)
+   - [Linux Commands Part 1](https://github.com/JacobVillagomez2077/Linux-Commands-Part-1/blob/main/README.md)
      
  - <b>CMD Commands</b>
    - [Cmd Commands Part 1](https://github.com/JacobVillagomez2077/CMD-Commands-Part-1)
